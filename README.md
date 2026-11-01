@@ -1,0 +1,2 @@
+# Tux.appimage-The-File-You-Couldn-t-chmod-x
+WARNING THIS IS A JOKE CREEPYPASTA / TROLLPASTA FROM 2010 STYLE
