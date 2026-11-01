@@ -7,7 +7,7 @@
 
 ![Tux.appimage](https://raw.githubusercontent.com/Stormwindsky/Tux-Custom-Assets/refs/heads/main/Tux/2026/TuxDotAppimage.svg)
 
-It all started on a Tuesday night in November. It was precisely **3:33 AM** (the hour of the Kernel Panic). I was browsing an ultra-obscure Arch Linux forum hidden deep within the dark web when I stumbled upon an untitled topic posted by a user named *xX_Stallman_Warrior_Xx*.
+It all started on a Tuesday night in November. It was precisely **3:33 AM** (the hour of the Kernel Panic). I was browsing an ultra-obscure Arch Linux forum hidden deep within the dark web when I stumbled upon an untitled topic posted by a user named *xX_Linus_Torvlad_Warrior_Xx*.
 
 The message contained a direct download link to a file named `Tux_CREEPY_DO_NOT_RUN.AppImage`, accompanied by this chilling description:
 > *"I opened the package. Its design is under a CC BY 4.0 license, but the terror it induces has no limits. Do not run it... It has blue spikes on its head and a weird mustache."*
