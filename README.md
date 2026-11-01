@@ -23,7 +23,7 @@ In my terminal, I typed the fateful command:
 chmod +x Tux_CREEPY_DO_NOT_RUN.AppImage
 ./Tux_CREEPY_DO_NOT_RUN.AppImage
 
----
+```
 
 ### THE END
 
